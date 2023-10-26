@@ -1,7 +1,7 @@
 <?php
 $servername="localhost";
-$firstname="alka";
-$lastname="kumari";
+$firstname="raviranjan";
+$lastname="kumar";
 $dbname="keyboard";
 $conn=newmysql($servername,$firstname,$lastname,$dbname);
 if($conn->connection error)

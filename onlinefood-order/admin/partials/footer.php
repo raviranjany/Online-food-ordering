@@ -53,12 +53,12 @@
                                 <h3>Contact Us</h3>
                                 <p>
                                     <i class="fa fa-map-signs" aria-hidden="true"></i>
-                                    <span>Janvi Singh, India</span>
+                                    <span>Raviranjan, India</span>
                                 </p>
                                 <p>
                                     <i class="fa fa-mobile" aria-hidden="true"></i>
                                     <span>
-									+91 80005 89080 
+									+91 80005 80801
 								</span>
                                 </p>
                                 <p>
