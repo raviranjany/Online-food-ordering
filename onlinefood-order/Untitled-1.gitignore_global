@@ -1,0 +1,13 @@
+<?php
+$servername="localhost";
+$firstname="alka";
+$lastname="kumari";
+$dbname="keyboard";
+$conn=newmysql($servername,$firstname,$lastname,$dbname);
+if($conn->connection error)
+{
+    die("connection fail");
+
+}
+$fname=$_post['fname'];
+$lname=$_post['lname'];
