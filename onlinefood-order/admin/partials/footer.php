@@ -63,7 +63,7 @@
                                 </p>
                                 <p>
                                     <i class="fa fa-envelope" aria-hidden="true"></i>
-                                    <span><a href="#">support@Oderista.com</a></span>
+                                    <span><a href="#">onlinefood@gmail.com</a></span>
                                 </p>
                             </div>
                             <!-- end footer-box-c -->
@@ -76,11 +76,11 @@
                                 <ul>
                                     <li>
                                         <p>Monday - Thursday </p>
-                                        <span> 11:00 AM - 9:00 PM</span>
+                                        <span> 08:00 AM - 02:00 AM</span>
                                     </li>
                                     <li>
                                         <p>Friday - Saturday </p>
-                                        <span>  11:00 AM - 5:00 PM</span>
+                                        <span>  10:00 AM - 05:00 AM</span>
                                     </li>
                                 </ul>
                             </div>
@@ -134,7 +134,7 @@
 </html>
 <div class="footer">
             <div class="wrapper">
-                <p class="text-center"><?php echo date("Y"); ?> All rights reserved. Developed By janvi Singh</a></p>
+                <p class="text-center"><?php echo date("Y"); ?> All rights reserved. Developed By Raviranjan</a></p>
             </div>
         </div>
         <!-- Footer Section Ends -->

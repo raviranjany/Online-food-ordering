@@ -35,7 +35,7 @@
 
         </div>
     </section>
-    <!-- fOOD sEARCH Section Ends Here -->
+    <!-- fOOD search Section Ends Here -->
 
 
 
@@ -105,7 +105,7 @@
                 else
                 {
                     //Food not available
-                    echo "<div class='error'>Food not Available.</div>";
+                    echo "<div class='error'> Sorry Food not Available.</div>";
                 }
             
             ?>
