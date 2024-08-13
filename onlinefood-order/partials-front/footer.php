@@ -27,7 +27,7 @@
                         </div>
     <section class="footer">
         <div class="container text-center">
-            <p>Designed by janvi Singh</p>
+            <p>Designed by Raviranjan</p>
         </div>
     </section>
     <!-- footer Section Ends Here -->
